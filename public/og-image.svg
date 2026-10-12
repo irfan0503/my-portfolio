@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="a" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#111725" />
+      <stop offset="1" stop-color="#080a10" />
+    </linearGradient>
+    <linearGradient id="b" x1="0" x2="1">
+      <stop stop-color="#52e0d0" />
+      <stop offset="1" stop-color="#8b79ff" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#a)" />
+  <circle cx="984" cy="142" r="250" fill="#6b5cff" opacity=".12" />
+  <circle cx="987" cy="152" r="154" fill="none" stroke="#52e0d0" opacity=".22" />
+  <text x="100" y="265" fill="#52e0d0" font-family="sans-serif" font-size="20" letter-spacing="5">FULL-STACK DEVELOPER</text>
+  <text x="96" y="365" fill="#f4f3ff" font-family="sans-serif" font-size="72" font-weight="700">Ahamed Irfan</text>
+  <text x="100" y="426" fill="#a5a8b9" font-family="sans-serif" font-size="27">B.Tech Information Technology · MSAJCE</text>
+  <path d="M100 482h126" stroke="url(#b)" stroke-width="5" />
+</svg>
